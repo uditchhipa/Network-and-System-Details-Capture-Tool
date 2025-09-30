@@ -1,0 +1,6 @@
+Flask==2.3.5
+requests==2.32.1
+psutil==5.9.6
+pyngrok==6.2.1
+
+# pip install -r requirements.txt
